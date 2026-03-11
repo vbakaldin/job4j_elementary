@@ -2,7 +2,7 @@ package ru.job4j;
 
 import static ru.job4j.math.MathFunction.*;
 
-public class calculator {
+public class Calculator {
 
     public static double sumAndMultiply(double first, double second) {
         return sum(first, second) + multiply(first, second);
